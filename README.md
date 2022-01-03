@@ -13,3 +13,4 @@ Implemented five features of Alarm, Join, Condition Variable, SleepFor, Cancel i
 
 ### Note
 * You can add more scenarios (tests) in the GameMatch.java file.
+* The detailed task is recorded here: https://cseweb.ucsd.edu/classes/fa21/cse120-a/projects/project1.html.
