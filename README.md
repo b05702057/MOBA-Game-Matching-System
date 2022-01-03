@@ -7,4 +7,6 @@ Implemented five features of Alarm, Join, Condition Variable, SleepFor, Cancel a
 
 ### Run Locally
 * Run this Command: git clone https://github.com/b05702057/MOBA-Game-Matching-System.git
-* Run this Command: set up with the Eclipse editor (recommended)
+* Run this Command: cd nachos/proj1
+* Run this Command: make
+* Run this Command: nachos
