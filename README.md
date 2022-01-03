@@ -10,3 +10,6 @@ Implemented five features of Alarm, Join, Condition Variable, SleepFor, Cancel a
 * Run this Command: cd nachos/proj1
 * Run this Command: make
 * Run this Command: nachos
+
+### Note
+* You can add more scenarios (tests) in the GameMatch.java file.
